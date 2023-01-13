@@ -19,3 +19,7 @@ Phone model: mElegooSonarControlAndroid.slx
 Robot model: mElegooArduinoV1.slx
 
 You have to generate code for them as described in the videos to upload the code in them.
+
+These videos also show more details about the code generation from the model to the targets (Android/Arduino):
+English: https://www.youtube.com/watch?v=O6Hy5tvZBbk
+Spanish: https://www.youtube.com/watch?v=w9TmVaCLj-s
